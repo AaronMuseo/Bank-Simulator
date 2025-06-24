@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Bank Simulator
-Exec=/home/aaron/NetBeansProjects/Bank/dist/run.sh
+Exec=/dist/run.sh
 Icon=utilities-terminal
 Terminal=false
 Type=Application
